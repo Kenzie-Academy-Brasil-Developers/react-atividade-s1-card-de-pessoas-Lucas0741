@@ -1,0 +1,19 @@
+{
+  "name": "random-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kenzie-Academy-Brasil-Developers/react-atividade-s1-card-de-pessoas-sarahvenske.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kenzie-Academy-Brasil-Developers/react-atividade-s1-card-de-pessoas-sarahvenske/issues"
+  },
+  "homepage": "https://github.com/Kenzie-Academy-Brasil-Developers/react-atividade-s1-card-de-pessoas-sarahvenske#readme"
+}

@@ -1,0 +1,30 @@
+.App-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.UserCard {
+  margin: 1rem;
+
+  width: 500px;
+  height: 500px;
+
+  border: solid 1px blueviolet;
+  border-radius: 8px;
+  background-color: blueviolet;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.UserCard h1 {
+  color: greenyellow;
+  font-size: 5rem;
+}
+
+.UserCard h2 {
+  color: rgb(224, 231, 214);
+  font-size: 2.5rem;
+}
