@@ -20,9 +20,9 @@ import Developer from "./components/Developer/index.jsx";
 
 function App() {
   const devs = [
-    { Nome: "Sarah", Idade: 30, País: "Brasil" },
-    { Nome: "Bruna", Idade: 20, País: "Brasil" },
-    { Nome: "Álvaro", Idade: 25, País: "Brasil" },
+    { Nome: "Lucas", Idade: 19, País: "Brasil" },
+    { Nome: "Fernanda", Idade: 32, País: "Brasil" },
+    { Nome: "Gabriel", Idade: 22, País: "Brasil" },
   ];
 
   return (
